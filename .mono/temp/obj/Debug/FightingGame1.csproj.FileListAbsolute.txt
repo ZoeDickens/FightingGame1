@@ -1,0 +1,6 @@
+C:\Users\Wolfblood\Desktop\gamestuff\FightingGame1\.mono\temp\bin\Debug\FightingGame1.dll
+C:\Users\Wolfblood\Desktop\gamestuff\FightingGame1\.mono\temp\bin\Debug\FightingGame1.pdb
+C:\Users\Wolfblood\Desktop\gamestuff\FightingGame1\.mono\temp\obj\Debug\FightingGame1.csprojAssemblyReference.cache
+C:\Users\Wolfblood\Desktop\gamestuff\FightingGame1\.mono\temp\obj\Debug\FightingGame1.csproj.CoreCompileInputs.cache
+C:\Users\Wolfblood\Desktop\gamestuff\FightingGame1\.mono\temp\obj\Debug\FightingGame1.dll
+C:\Users\Wolfblood\Desktop\gamestuff\FightingGame1\.mono\temp\obj\Debug\FightingGame1.pdb
